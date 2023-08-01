@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "E:\\KEIL\\ARM\\ARMCC\\include",
+                "E:\\KEIL\\ARM\\Pack\\HDSC\\HC32F460\\1.0.8\\Device\\Include",
+                "E:\\固件\\CRY2831\\CRY2831-01\\template\\source\\rt-thread\\include",
+                "E:\\固件\\CRY2831\\CRY2831-01\\template\\source"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "__CC_ARM",
+                "HC32F460",
+                "USE_DRIVER_LIB"
+            ],
+            "compilerPath": "C:\\Users\\crygz\\AppData\\Local\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c99",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

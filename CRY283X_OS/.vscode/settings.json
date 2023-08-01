@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "hc32_ddl.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

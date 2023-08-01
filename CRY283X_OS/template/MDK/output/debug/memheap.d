@@ -1,0 +1,11 @@
+.\output\debug\memheap.o: ..\source\rt-thread\src\memheap.c
+.\output\debug\memheap.o: ..\source\rt-thread\include\rthw.h
+.\output\debug\memheap.o: ..\source\rt-thread\include\rtthread.h
+.\output\debug\memheap.o: ..\source\rt-thread\bsp\rtconfig.h
+.\output\debug\memheap.o: ..\source\rt-thread\include\rtthread.h
+.\output\debug\memheap.o: ..\source\rt-thread\include\rtdebug.h
+.\output\debug\memheap.o: ..\source\rt-thread\include\rtdef.h
+.\output\debug\memheap.o: D:\Application\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\debug\memheap.o: ..\source\rt-thread\include\rtservice.h
+.\output\debug\memheap.o: ..\source\rt-thread\components\finsh\finsh_api.h
+.\output\debug\memheap.o: ..\source\rt-thread\components\finsh\finsh_config.h

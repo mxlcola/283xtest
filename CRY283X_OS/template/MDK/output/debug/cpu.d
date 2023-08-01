@@ -1,0 +1,11 @@
+.\output\debug\cpu.o: ..\source\rt-thread\src\cpu.c
+.\output\debug\cpu.o: ..\source\rt-thread\include\rtthread.h
+.\output\debug\cpu.o: ..\source\rt-thread\bsp\rtconfig.h
+.\output\debug\cpu.o: ..\source\rt-thread\include\rtthread.h
+.\output\debug\cpu.o: ..\source\rt-thread\include\rtdebug.h
+.\output\debug\cpu.o: ..\source\rt-thread\include\rtdef.h
+.\output\debug\cpu.o: D:\Application\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\output\debug\cpu.o: ..\source\rt-thread\include\rtservice.h
+.\output\debug\cpu.o: ..\source\rt-thread\components\finsh\finsh_api.h
+.\output\debug\cpu.o: ..\source\rt-thread\components\finsh\finsh_config.h
+.\output\debug\cpu.o: ..\source\rt-thread\include\rthw.h
